@@ -1,5 +1,5 @@
 Hi there 👋, I´m Ana Angélica
-# 💫 About Me:
+
 Passionate about technology, I had my first experience with programming during my Production Engineering degree. In 2023, I built my first front-end project, which sparked my journey into software development. I'm currently focused on building a strong foundation in back-end development, with the goal of becoming one of the top full-stack developers in the market.<br>Wait for it..
 
 
